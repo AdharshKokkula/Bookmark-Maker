@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bookmark-maker-page {
+    color: #ffffff;
+    background-color: #2d3a8c;
+    font-family: "Roboto";
+    height: 100vh;
+}
+
+.welcome-heading {
+    font-size: 28px;
+    padding: 10px;
+}
+
+.hello-span {
+    font-size: 19px;
+}
+
+.bookmark-maker-container {
+    color: black;
+    background-color: #ffffff;
+    padding: 20px;
+    height: 100%;
+    border-top-left-radius: 28px;
+    border-top-right-radius: 28px;
+}
+
+.bookmark-your-site-h1 {
+    color: #323f4b;
+    font-size: 23px;
+    font-weight: 500;
+    text-align: center;
+    margin: 16px;
+}
+
+.bookmark-maker-form {
+    background-color: #f5f7fa;
+    padding: 25px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+}
+
+.label {
+    color: #7b8794;
+}
+
+.error-msg {
+    color: #dc3545;
+}
+
+.custom-btn {
+    background-color: #21396c;
+}
+
+.bookmarks-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bookmark-list-item {
+    background-color: #f5f7fa;
+    border-color: #cbd2d9;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 1px;
+    padding: 25px;
+    margin-top: 25px;
+
+}
