@@ -26,7 +26,7 @@ Check out the live demo [here](https://modelbookmark.ccbp.tech/) to explore the 
 # How to Use:
 
 Clone the Repository:
-git clone https://github.com/your-username/bookmark-maker.git
+git clone https://github.com/AdharshKokkula/Bookmark-Maker.git
 
 Open index.html:
 Open the index.html file in your web browser to start using the Bookmark Maker.
@@ -80,6 +80,8 @@ Feel free to customize the code and styles to match your preferences or add addi
 -HTML
 
 -CSS
+
+-Bootstrap
 
 -JavaScript
 
